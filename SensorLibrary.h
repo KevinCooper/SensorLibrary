@@ -7,8 +7,7 @@
 #ifndef SENSORLIBRARY_H_
 #define SENSORLIBRARY_H_
 
-char isRightClose();
 char isCenterClose();
-
+char isRightClose();
 
 #endif /* SENSORLIBRARY_H_ */
